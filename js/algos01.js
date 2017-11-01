@@ -6,7 +6,7 @@ console.log("Welcome to Algo Practice #1!")
 
 // This document is a worksheet of algos targeting array javascript functions.
 
-// Fundamental Excercises:
+// Fundamental Excercises: The Basic 13!!!!!
 
 // The Basic 13:
 
@@ -215,6 +215,13 @@ function shiftArrayForwardOne(arr){
 
 var arr8 = [7,6,5,45];
 shiftArrayForwardOne(arr8);
+
+// ***************
+// ***************
+// Array Functions
+// ***************
+// ***************
+
 
 // Dedupe Array:
 // *************
